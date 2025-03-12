@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "70647067655",
+    "project_id": "flutterchat-c7043",
+    "storage_bucket": "flutterchat-c7043.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70647067655:android:e66dd2ebd4cc90c436e6a2",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGIpDhr6gXP-dc4MvigHIXGf6FLz3oGHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70647067655:android:d0b1bd840b31594836e6a2",
+        "android_client_info": {
+          "package_name": "com.example.chatting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGIpDhr6gXP-dc4MvigHIXGf6FLz3oGHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70647067655:android:be4e68b8a68e1b5136e6a2",
+        "android_client_info": {
+          "package_name": "com.example.talky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGIpDhr6gXP-dc4MvigHIXGf6FLz3oGHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70647067655:android:cfeb9a264dddd47c36e6a2",
+        "android_client_info": {
+          "package_name": "com.example.worked"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGIpDhr6gXP-dc4MvigHIXGf6FLz3oGHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
