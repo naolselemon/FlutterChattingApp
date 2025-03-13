@@ -46,7 +46,7 @@ class UserImagePickerState extends State<UserImagePicker> {
             "Add Image",
             style: TextStyle(color: Theme.of(context).colorScheme.primary),
           ),
-        )
+        ),
       ],
     );
   }
